@@ -1,7 +1,7 @@
-[![MASTERHEAD](https://tenor.com/view/code-coding-flying-through-code-e22-hacking-gif-15826314)
+[![MASTERHEAD](https://tenor.com/view/hacker-reality-colored-keyboard-hacking-typing-gif-17405107)
 <h1 align="center">Hi 👋, I'm Akash Kumar L</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align= "right" alt= "coding" width= "400" src = "https://tenor.com/view/code-coding-flying-through-code-e22-hacking-gif-15826314">
+<img align= "right" alt= "coding" width= "400" src = "https://tenor.com/view/hacker-reality-colored-keyboard-hacking-typing-gif-17405107">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkumarl&label=Profile%20views&color=0e75b6&style=flat" alt="akashkumarl" /> </p>
 
