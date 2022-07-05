@@ -14,7 +14,7 @@ src = "https://images.app.goo.gl/t6n8XMFYJq7MPvhA8">
 
 - 📫 How to reach me **akash4657kumar@gmail.com**
 
-- ⚡ Fun fact **I'm a GENTLEMAN**
+- ⚡ Fun fact **I'm a GENTLEMAN💥💥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
