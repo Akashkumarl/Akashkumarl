@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar L</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align= "right" alt= "coding" width= "400" src = "https://images.app.goo.gl/t6n8XMFYJq7MPvhA8">
+src = "https://images.app.goo.gl/t6n8XMFYJq7MPvhA8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkumarl&label=Profile%20views&color=0e75b6&style=flat" alt="akashkumarl" /> </p>
 
