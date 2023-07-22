@@ -8,13 +8,13 @@ src = "https://images.app.goo.gl/t6n8XMFYJq7MPvhA8">
 
 - 🔭 I’m currently working on **programming**
 
-- 🌱 I’m currently learning **C,C++,Python,Java**
+- 🌱 I’m currently learning **C,C++,Python,Java,Dart**
 
-- 👯 I’m looking to collaborate on **web development,ethical hacking**
+- 👯 I’m looking to collaborate on **app development**
 
 - 📫 How to reach me **akash4657kumar@gmail.com**
 
-- ⚡ Fun fact **I'm a GENTLEMAN💥💥**
+- ⚡ Fun fact **💥💥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
