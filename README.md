@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashkumarl" alt="akashkumarl" /></a> </p>
 
-- 🔭 I’m currently working on **programming**
 
-- 🌱 I’m currently learning **C,C++,Python,Java,Dart**
+- 🌱 I’m currently learning kotlin,UI design,MVVM,REST API.
 
 - 👯 I’m looking to collaborate on **app development**
 
 - 📫 How to reach me **akash4657kumar@gmail.com**
 
-- ⚡ Fun fact **💥💥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
